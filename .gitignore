@@ -1,0 +1,6 @@
+.idea/
+amazon-cover-fix.iml
+.venv
+thumbnails*/*.jpg
+.DS_Store
+__pycache__/
